@@ -1,4 +1,7 @@
-<div id="header" align="center">
+<div id="header1" align="center">
+  <img src="https://media.giphy.com/media/gf675azxNAz2zDQ1vD/giphy.gif" width="300"/>
+</div>
+<div id="header2" align="center">
   <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="200"/>
 </div>
 
@@ -23,7 +26,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
