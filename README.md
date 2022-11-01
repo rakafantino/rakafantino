@@ -34,7 +34,7 @@
 ### 👨‍💻 About Me :
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
-- :telescope: I’m working as a Software Engineer as a frontend for building web applications.
+- :telescope: I’m currently looking for job opportunies as a Software Engineer Frontend.
 
 - :seedling: Exploring new technologies that relevant to my role.
 
